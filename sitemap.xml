@@ -1,9 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
   <url>
     <loc>https://moustiquaire-annecy.mdrenov-menuiserie.com/</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://moustiquaire-annecy.mdrenov-menuiserie.com/6.png</image:loc>
+      <image:caption>Moustiquaire enroulable sur mesure installée sur une fenêtre de chambre</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://moustiquaire-annecy.mdrenov-menuiserie.com/4.png</image:loc>
+      <image:caption>Moustiquaire plissée sur mesure installée sur une baie vitrée</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://moustiquaire-annecy.mdrenov-menuiserie.com/3.png</image:loc>
+      <image:caption>Grande baie vitrée équipée d'une moustiquaire sur mesure</image:caption>
+    </image:image>
   </url>
 </urlset>
